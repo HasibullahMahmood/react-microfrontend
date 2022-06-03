@@ -4,7 +4,7 @@ import { useHistory } from 'react-router-dom';
 
 export default ({ onSignIn }) => {
 	const devRef = useRef();
-	const history = useHistory();
+	const history = useHistory(); 
 	useEffect(() => {
 		const { onParentNavigate } = mount(devRef.current, {
 			initialPath: history.location.pathname,
