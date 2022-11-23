@@ -1,5 +1,5 @@
 ﻿# microfrontend-react
- 
+ A micro-frontend practice project consists of four micro-projects: marketing, authentication, dashboard, and container.
 ### Marketing
 ![home](https://user-images.githubusercontent.com/48029545/203404857-d3eef9aa-df06-4713-9d23-70552aec73b8.png)
 
